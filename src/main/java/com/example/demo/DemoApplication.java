@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
+		System.out.println("testig testong");
+		System.out.println("thi is incorrect commt");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
